@@ -1,0 +1,6 @@
+php artisan serve > menyambungkan serve/menampilkan tampilan apk.
+php artisan make:migration create_pages_table table > membuat table.
+php artisan make:controller (awalkatahurufbesar)Controller
+composer -v > cek apakah sukses
+guna nodejs > ? >node -v (cek apakah sukses)
+tata letak membuat login dan register >
